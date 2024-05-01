@@ -39,12 +39,7 @@ while True:
  s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-
-## CLIENT:
-![image](https://github.com/Soundaryajothi/2a_Stop_and_Wait_Protocol/assets/144870490/c4e45e5a-b9ed-49cb-9beb-84648d6aae2f)
-
-## SERVER:
-![image](https://github.com/Soundaryajothi/2a_Stop_and_Wait_Protocol/assets/144870490/03498e4a-a2ae-4226-8bb4-d05ee9b9be95)
+![image](https://github.com/Soundaryajothi/2a_Stop_and_Wait_Protocol/assets/144870490/9563cb79-3983-4f51-be50-2c55bee44ad8)
 
 
 
